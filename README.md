@@ -52,4 +52,4 @@ MySQL · Python 3 · mysql-connector-python · python-dotenv
 ## Team
 
 DB Xccelerators, CSC312 Database Systems, University of the Western Cape, 2026.
-Repository maintained by [Bahle Ludidi](https://www.linkedin.com/in/bahle-ludidi-727657352).
+Technical lead and repository maintainer: [Bahle Ludidi](https://www.linkedin.com/in/bahle-ludidi-727657352).
